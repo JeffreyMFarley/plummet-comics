@@ -1,100 +1,116 @@
+.full-border {
+  border: solid 0.7mm black;
+}
+@font-face {
+  font-family: "Dya";
+  src: url("https://rawgit.com/JeffreyMFarley/plummet-comics/master/dya/Dya-Regular.ttf") format("ttf");
+}
 .cels {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 6192px;
-  height: 9430px;
-  z-index: 13;
+  position:  absolute;
+  left: 0.0px;
+  top: 0.0px;
+  width: 1100.0px;
+  height: 1700.0px;
+  z-index:  13;
 }
 .cel_4_dialog {
-  background-image: url("cel-4-dialog.png");
-  position: absolute;
-  left: 3313px;
-  top: 2720px;
-  width: 2377px;
-  height: 1940px;
-  z-index: 12;
+  background-image:  url("cel-4-dialog.png");
+  background-size: 100% 100%;
+  position:  absolute;
+  left: 588.55px;
+  top: 490.35px;
+  width: 422.27px;
+  height: 349.73px;
+  z-index:  12;
 }
 .cel_4_artwork {
-  background-image: url("cel-4-artwork.png");
-  position: absolute;
-  left: 3279px;
-  top: 2680px;
-  width: 2527px;
-  height: 2168px;
-  z-index: 11;
+  background-image:  url("cel-4-artwork.png");
+  background-size: 100% 100%;
+  position:  absolute;
+  left: 582.51px;
+  top: 483.14px;
+  width: 448.92px;
+  height: 390.84px;
+  z-index:  11;
 }
 .cel_3_dialog {
-  font-size: 150px;
-  font-family: "Dya";
-  color: rgb(0, 0, 0);
-  line-height: 1.2;
-  text-align: left;
-  position: absolute;
-  left: 1237.453px;
-  top: 4539.82px;
-  z-index: 10;
+  font-size: 20pt;
+  font-family:  "Dya";
+  color:  rgb(0, 0, 0);
+  line-height:  1.2;
+  text-align:  left;
+  position:  absolute;
+  left: 219.83px;
+  top: 818.42px;
+  z-index:  10;
 }
 .cel_3_artwork {
-  background-image: url("cel-3-artwork.png");
-  position: absolute;
-  left: 465px;
-  top: 2680px;
-  width: 2613px;
-  height: 2061px;
-  z-index: 9;
+  background-image:  url("cel-3-artwork.png");
+  background-size: 100% 100%;
+  position:  absolute;
+  left: 82.61px;
+  top: 483.14px;
+  width: 464.2px;
+  height: 371.55px;
+  z-index:  9;
 }
 .cel_2_dialog {
-  background-image: url("cel-2-dialog.png");
-  position: absolute;
-  left: 3303px;
-  top: 487px;
-  width: 2256px;
-  height: 1941px;
-  z-index: 8;
+  background-image:  url("cel-2-dialog.png");
+  background-size: 100% 100%;
+  position:  absolute;
+  left: 586.77px;
+  top: 87.79px;
+  width: 400.78px;
+  height: 349.92px;
+  z-index:  8;
 }
 .cel_2_artwork {
-  background-image: url("cel-2-artwork.png");
-  position: absolute;
-  left: 3268px;
-  top: 427px;
-  width: 2538px;
-  height: 2054px;
-  z-index: 7;
+  background-image:  url("cel-2-artwork.png");
+  background-size: 100% 100%;
+  position:  absolute;
+  left: 580.56px;
+  top: 76.98px;
+  width: 450.87px;
+  height: 370.29px;
+  z-index:  7;
 }
 .cel_1_dialog {
-  background-image: url("cel-1-dialog.png");
-  position: absolute;
-  left: 470px;
-  top: 503px;
-  width: 2486px;
-  height: 1971px;
-  z-index: 6;
+  background-image:  url("cel-1-dialog.png");
+  background-size: 100% 100%;
+  position:  absolute;
+  left: 83.49px;
+  top: 90.68px;
+  width: 441.63px;
+  height: 355.32px;
+  z-index:  6;
 }
 .cel_1_artwork {
-  background-image: url("cel-1-artwork.png");
-  position: absolute;
-  left: 465px;
-  top: 429px;
-  width: 2602px;
-  height: 2063px;
-  z-index: 5;
+  background-image:  url("cel-1-artwork.png");
+  background-size: 100% 100%;
+  position:  absolute;
+  left: 82.61px;
+  top: 77.34px;
+  width: 462.24px;
+  height: 371.91px;
+  z-index:  5;
 }
 .cel_5_dya {
-  background-image: url("cel-5-dya.png");
-  position: absolute;
-  left: 129px;
-  top: 4923px;
-  width: 5388px;
-  height: 3308px;
-  z-index: 3;
+  background-image:  url("cel-5-dya.png");
+  background-size: 100% 100%;
+  position:  absolute;
+  left: 22.92px;
+  top: 887.5px;
+  width: 957.17px;
+  height: 596.35px;
+  z-index:  3;
 }
 .cel_5_record {
-  background-image: url("cel-5-record.png");
-  position: absolute;
-  left: 1453px;
-  top: 5124px;
-  width: 4739px;
-  height: 3908px;
-  z-index: 2;
+  background-image:  url("cel-5-record.png");
+  background-size: 100% 100%;
+  position:  absolute;
+  left: 258.12px;
+  top: 923.73px;
+  width: 841.88px;
+  height: 704.52px;
+  z-index:  2;
 }
