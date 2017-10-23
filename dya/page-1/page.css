@@ -1,0 +1,100 @@
+.cels {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 6192px;
+  height: 9430px;
+  z-index: 13;
+}
+.cel_4_dialog {
+  background-image: url("cel-4-dialog.png");
+  position: absolute;
+  left: 3313px;
+  top: 2720px;
+  width: 2377px;
+  height: 1940px;
+  z-index: 12;
+}
+.cel_4_artwork {
+  background-image: url("cel-4-artwork.png");
+  position: absolute;
+  left: 3279px;
+  top: 2680px;
+  width: 2527px;
+  height: 2168px;
+  z-index: 11;
+}
+.cel_3_dialog {
+  font-size: 150px;
+  font-family: "Dya";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 1237.453px;
+  top: 4539.82px;
+  z-index: 10;
+}
+.cel_3_artwork {
+  background-image: url("cel-3-artwork.png");
+  position: absolute;
+  left: 465px;
+  top: 2680px;
+  width: 2613px;
+  height: 2061px;
+  z-index: 9;
+}
+.cel_2_dialog {
+  background-image: url("cel-2-dialog.png");
+  position: absolute;
+  left: 3303px;
+  top: 487px;
+  width: 2256px;
+  height: 1941px;
+  z-index: 8;
+}
+.cel_2_artwork {
+  background-image: url("cel-2-artwork.png");
+  position: absolute;
+  left: 3268px;
+  top: 427px;
+  width: 2538px;
+  height: 2054px;
+  z-index: 7;
+}
+.cel_1_dialog {
+  background-image: url("cel-1-dialog.png");
+  position: absolute;
+  left: 470px;
+  top: 503px;
+  width: 2486px;
+  height: 1971px;
+  z-index: 6;
+}
+.cel_1_artwork {
+  background-image: url("cel-1-artwork.png");
+  position: absolute;
+  left: 465px;
+  top: 429px;
+  width: 2602px;
+  height: 2063px;
+  z-index: 5;
+}
+.cel_5_dya {
+  background-image: url("cel-5-dya.png");
+  position: absolute;
+  left: 129px;
+  top: 4923px;
+  width: 5388px;
+  height: 3308px;
+  z-index: 3;
+}
+.cel_5_record {
+  background-image: url("cel-5-record.png");
+  position: absolute;
+  left: 1453px;
+  top: 5124px;
+  width: 4739px;
+  height: 3908px;
+  z-index: 2;
+}
