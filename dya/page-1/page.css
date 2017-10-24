@@ -13,6 +13,16 @@
   height: 1700.0px;
   z-index:  13;
 }
+.cel_4_border {
+  position:  absolute;
+  left: 580.55px;
+  top: 483.35px;
+  z-index:  13;
+}
+.cel_4_border line {
+  stroke: black;
+  stroke-width: 1.4mm;
+}
 .cel_4_dialog {
   background-image:  url("cel-4-dialog.png");
   background-size: 100% 100%;
